@@ -1,12 +1,14 @@
 # ☕ Coffee Dashboard - Café de Especialidad Colombiano S.A.S.
 
-Dashboard de análisis de ventas para una empresa fde café especial colombiano. Proyecto de portafolio en Power BI con dataset sintético de 800 registros (2021-2025).
+Dashboard de análisis de ventas para una empresa de café especial colombiano. Proyecto de portafolio en Power BI con dataset sintético de 800 registros (2021-2025).
 
 ## 🔗 Demo en vivo
 👉 [Ver dashboard interactivo](https://camiloriveral.github.io/coffee-dashboard-colombia/)
 
 ## 📸 Vista previa
-![Overview](screenshots/overview.png)
+![Overview](overview.png)
+![Ventas por región](sales-by-region.png)
+![Análisis de ingresos](earnings.png)
 
 ## 🛠️ Stack técnico
 - **Power BI**: modelado de datos (esquema estrella), DAX, visualizaciones
@@ -22,5 +24,4 @@ Dashboard de análisis de ventas para una empresa fde café especial colombiano.
 - Análisis YoY% con formato de pesos colombianos
 - Mapa de burbujas por departamento
 - Formato condicional con iconos
-- Tema visual personalizado (theme.json incluido)# coffee-dashboard-colombia
-Dashboard de análisis de ventas - Café de Especialidad Colombiano (Power BI + DAX)
+
